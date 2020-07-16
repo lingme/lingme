@@ -22,6 +22,6 @@ Hi, I'm Lingme, a full stack developer from China, Now I'm positive work and stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="right" width="200" height="191" alt="PNG" src="https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/undraw_laravel_and_vue_59tp.png" />
+<img align="right" width="200" height="191" alt="PNG" src="https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/github_resume_pragrammer.png" />
 
 ![](https://github-readme-stats.vercel.app/api?username=lingme&show_icons=false&hide_border=true)

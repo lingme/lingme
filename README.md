@@ -2,6 +2,8 @@
 
 Hi, I'm Lingme, a full stack developer from China, Now I'm positive work and study hard, Beside's programming, I like watching movies, Play games, See the scenery.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>

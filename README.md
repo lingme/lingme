@@ -1,6 +1,6 @@
 ### Hey, I'm [Lingme](https://lingmin.me/)
 
-I'm Ming.Ling, A full stack developer from China, Now I'm positive work and study hard, Beside's programming, I like watching movies, Play games, Travel with girlfriend.
+A full stack developer from China, Now I'm positive work and study hard, Beside's programming, I like watching movies, Play games, Travel with girlfriend.
 
 **Languages and Tools:**  
 

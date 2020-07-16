@@ -1,6 +1,6 @@
 ### Hey, I'm [Lingme](https://lingmin.me/)
 
-- Hi, I'm Lingme, a full stack developer from China, Now I'm positive work and study hard, Beside's programming, I like watching movies, Play games, See the scenery.
+Hi, I'm Lingme, a full stack developer from China, Now I'm positive work and study hard, Beside's programming, I like watching movies, Play games, See the scenery.
 
 **Languages and Tools:**  
 

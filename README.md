@@ -2,8 +2,6 @@
 
 Hi, I'm Lingme, a full stack developer from China, Now I'm positive work and study hard, Beside's programming, I like watching movies, Play games, See the scenery.
 
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -23,5 +21,7 @@ Hi, I'm Lingme, a full stack developer from China, Now I'm positive work and stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<svg align="right" src="https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/undraw_laravel_and_vue_59tp.svg"/>
 
 ![Lingme's github stats](https://github-readme-stats.vercel.app/api?username=lingme&show_icons=false&hide_border=true)

@@ -2,6 +2,10 @@
 
 A <b>Full Stack Developer</b> from China, Now I'm working towards becoming a top architect, I will not forget who I am.
 
-<img align="left" width="200" height="172" alt="PNG" src="https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/github-resume-image4.png" />
+<div align="left">
+  ![](https://github-readme-stats.vercel.app/api?username=lingme&show_icons=false&hide_border=true)
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=lingme&show_icons=false&hide_border=true)
+<img align="right" width="200" height="172" alt="PNG" src="https://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/uPic/github-resume-image4.png" />
+
+

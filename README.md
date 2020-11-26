@@ -1,6 +1,6 @@
 ### Hey, I'm [Lingme](https://lingmin.me/)
 
-A <b>Full Stack Developer</b> from China, Now I'm trying to be the person I want to be
+A <b>Full Stack Developer</b> from China, Now I will try to be what I want to be.
 
 <img align="right" width="220" height="182" src="https://github.com/lingme/Picture_Bucket/raw/master/3D_Test/method-draw-image.svg" />
 

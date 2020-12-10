@@ -57,6 +57,9 @@
 					color: white;
 					text-align: center;
 				}
+				#user-content-test_img {
+					visibility: hidden
+				}
 				h1 {
 					font-size: 50px;
 					line-height: 1.3;

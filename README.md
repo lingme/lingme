@@ -12,9 +12,3 @@ A <b>Full Stack Developer</b> from China, Now I will try to be what I want to be
 		<img src="style.svg" width="200" height="200">
 	</a>
 </div>
-
-<style>
-	#user-content-test_img{
-		visibility: hidden
-	}
-</style>

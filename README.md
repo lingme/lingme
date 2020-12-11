@@ -4,4 +4,6 @@ A <b>Full Stack Developer</b> from China, Now I will try to be what I want to be
 
 <br>
 
-![](https://github.com/lingme/lingme/blob/master/coding.gif)
+<div align="center">
+  <img src="https://github.com/lingme/lingme/blob/master/coding.gif">
+</div>

@@ -2,9 +2,9 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				#container{
+<!-- 				#container{
 					background-color: #ffffff00;
-				}
+				} -->
 			</style>
 			<div class="container">
 				<a style="font-size:80px" href="https://lingmin.me">lingme</a>

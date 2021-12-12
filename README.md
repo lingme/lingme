@@ -1,9 +1,3 @@
-<div align=center>
-   
-![header](https://capsule-render.vercel.app/apitype=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=sang712&fontAlign=80&fontAlignY=40&fontSize=50)
-
-</div>
-
 <p align="center" style="pointer-events:none;"> 
    <img alingn="center" src="https://view-count.glitch.me/count.svg" />
  </p>

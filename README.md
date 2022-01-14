@@ -2,7 +2,9 @@
    <img alingn="center" src="https://view-count.glitch.me/count.svg" />
  </p>
 
-<h2 style="text-align: center;">Hey, I'm <a href="https://lingmin.me/">lingme</a> </h2>
+<p align="center"> 
+   <h2 style="text-align: center;">Hi, I'm <a href="https://lingmin.me/">lingme</a></h2>
+ </p>
 
 * An <b>Independent Developer / Full Stack Developer</b>
 

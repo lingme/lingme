@@ -3,7 +3,7 @@
  </p>
 
 <p align="center" style="pointer-events:none;"> 
-   ## Hey, I'm [lingme](https://lingmin.me/)
+   <h2>Hey, I'm <a href="https://lingmin.me/">lingme</a> </h2>
  </p>
 
 * An <b>Independent Developer / Full Stack Developer</b>

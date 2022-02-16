@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
+<h1 align="center">⚡ Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
 
 </br>
 
@@ -10,7 +10,6 @@
 
 * 从团队协作到一个人独立开发，掉过不少坑也因此学习到很多。
 
-## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Flask, Django**.

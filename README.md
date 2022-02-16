@@ -4,6 +4,10 @@
  
 <h1 align="center">Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
 
+</br>
+</br>
+</br>
+
 * An <b>Independent Developer / Full Stack Developer</b>
 
 * 一个 <b>独立开发者 / 全栈开发者</b>

@@ -2,7 +2,7 @@
    <img alingn="center" src="https://view-count.glitch.me/count.svg" />
  </p>
  
-<h1 align="center">Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a>
+<h1 align="center">Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
 
 * An <b>Independent Developer / Full Stack Developer</b>
 

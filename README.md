@@ -14,4 +14,4 @@
 
 * 从团队协作到一个人独立开发，掉过不少坑也因此学习到很多。
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lingme&theme=github&hide_border=true&area=true&custom_title=Lingme's%20activity%20graph)](https://www.lingmin.me)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lingme&theme=github&hide_border=true&area=true&custom_title=Lingme's%20Activity)](https://www.lingmin.me)

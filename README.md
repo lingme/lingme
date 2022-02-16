@@ -6,7 +6,6 @@
 
 </br>
 </br>
-</br>
 
 * An <b>Independent Developer / Full Stack Developer</b>
 

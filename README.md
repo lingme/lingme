@@ -1,10 +1,8 @@
 <p align="center" style="pointer-events:none;"> 
    <img alingn="center" src="https://view-count.glitch.me/count.svg" />
  </p>
-
-<p align="center"> 
-   <h2 style="text-align: center;">Hi, I'm <a href="https://lingmin.me/">lingme</a></h2>
- </p>
+ 
+<h1 align="center">Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a>
 
 * An <b>Independent Developer / Full Stack Developer</b>
 

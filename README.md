@@ -10,6 +10,5 @@
 
 * 从团队协作到一个人独立开发，掉过不少坑也因此学习到很多。
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lingme&show_icons=true&count_private=true&theme=city_lights&hide_border=true&hide=issues,contribs&bg_color=00000000">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lingme&theme=github&area=true&custom_title=Lingme's%20Activity&line=00000000&point=57bdda&bg_color=00000000)](https://www.lingmin.me)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lingme&theme=github&hide_border=true&area=true&custom_title=Lingme's%20Activity&line=00000000&point=57bdda&bg_color=00000000)](https://www.lingmin.me)

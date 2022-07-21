@@ -2,7 +2,7 @@
 
 </br>
 
-* An <b>Independent Developer / Full Stack Developer</b>
+* An <b>Independent / Full Stack Developer</b>
 
 * 一个 <b>独立 / 全栈开发者</b>
 

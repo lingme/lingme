@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.lingmin.me/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0047ab&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Application%20Engineer;Dekstop,%20Mobile%20App,%20Web,%20Distributed%20Application;Crawler,%20Web%20spider,%20Reverse%20Engineering;7+%20years%20of%20architecture%20experience,I'm%20Lingme&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 * An Independent / Full Stack Developer

@@ -1,4 +1,4 @@
-<h1 align="center">⚡ I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
+<h1 align="center">⚡<a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
 
 <br/>
 

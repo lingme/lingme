@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
+<h1 style="color:#f75c7e;" align="center">⚡ Hi there, I'm <a style="color:#f75c7e;" href="https://lingmin.me/" target="_blank">Lingme</a></h1>
 
 </br>
 

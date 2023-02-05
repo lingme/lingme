@@ -1,7 +1,6 @@
 <h1 align="center">⚡ Hi there, I'm <a href="https://lingmin.me/" target="_blank">Lingme</a></h1>
 
 <br/>
-<br/>
 
 <p align="center">
   <a href="https://www.lingmin.me/">

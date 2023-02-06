@@ -2,12 +2,11 @@
 
 <br/>
 
-I’m a lead software engineer with a
-great experience in motion picture arts and mechatronics projects. Utilizing
-state-of-the-art robotics, automation solutions, embedded technologies, sensors,
-programming languages and software frameworks I am focusing on data
-acquisition, processing and routing for real-time controlling and creating
-intuitive user interface solutions for filmmakers.
+An Independent / Full Stack Developer
+
+From teamwork to independent development by one person, I have encountered a lot of hardships and learned a lot from it
+
+<div style="margin-left: 30px;">
 
 <br/>
     

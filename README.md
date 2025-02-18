@@ -6,8 +6,4 @@ An Freelancer / Independent / Full Stack Developer
 
 From teamwork to independent development by one person, I have encountered a lot of hardships and learned a lot from it
 
-<div style="margin-left: 30px;">
-
 <br/>
-
-</div>
